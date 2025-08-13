@@ -1,0 +1,2 @@
+# rtusyn
+Ayurvedic wellness app
