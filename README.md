@@ -1,5 +1,7 @@
 # rtusyn
 Ayurvedic wellness app
+https://studio--tusyn-ivc00.us-central1.hosted.app (beta/test)
+
 A comprehensive, AI backed Ayurvedic and holistic wellness web application called "ṚtuSyn"
 
 Dosha Assessment :A multi-step questionnaire to determine the user's Ayurvedic constitution (Prakriti and Vikriti).  AI Flow : An AI flow that takes the questionnaire answers and optional lab report data URI. It should analyze this information to determine the user's Prakriti, Vikriti, provide a Dhatu (tissue) analysis, and offer personalized insights.  
