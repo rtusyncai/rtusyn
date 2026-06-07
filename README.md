@@ -1,6 +1,5 @@
 # rtusyn
-Ayurvedic wellness app
-https://studio--tusyn-ivc00.us-central1.hosted.app (beta/test)
+
 
 A comprehensive, AI backed Ayurvedic and holistic wellness web application called "ṚtuSyn"
 
